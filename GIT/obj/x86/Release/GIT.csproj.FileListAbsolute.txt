@@ -1,0 +1,9 @@
+C:\CSOFTWARE\GIT\GIT\bin\Release\GIT.exe
+C:\CSOFTWARE\GIT\GIT\bin\Release\GIT.pdb
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.Form1.resources
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.getBranchLabel.resources
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.Properties.Resources.resources
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.switchDirectory.resources
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.csproj.GenerateResource.Cache
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.exe
+C:\CSOFTWARE\GIT\GIT\obj\x86\Release\GIT.pdb
